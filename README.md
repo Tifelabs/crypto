@@ -17,3 +17,6 @@ A simple web application to check the price of a cryptocurrency using the CoinGe
 - Express.js
 - Axios
 - EJS
+
+>>>Check Demo
+[View Demo]()
