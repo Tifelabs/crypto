@@ -1,7 +1,7 @@
 # Crypto Price Checker
 
 ## Description
-A simple web application to check the price of a cryptocurrency using the CoinGecko API.
+Hi ! This is a web application to check the price of a cryptocurrency using the CoinGecko API.
 
 ## Setup
 1. Clone the repository.
@@ -18,5 +18,4 @@ A simple web application to check the price of a cryptocurrency using the CoinGe
 - Axios
 - EJS
 
->>>Check Demo
-[View Demo]()
+  ### Have a lovely day : )
