@@ -6,7 +6,7 @@ Hi ! This is a web application to check the price of a cryptocurrency using the 
 ## Setup
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
-3. Run `node app.js` to start the server.
+3. Run `node index.js` to start the server.
 4. Visit `http://localhost:3000` in your browser.
 
 ## Usage
